@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../MIDTERM_carlyn/css/style.css"/>
+    <title>Travelly</title>
+</head>
+<body>
+    <div><button class="tablink0" onclick="openPage('home') id="#home">TRAVELLY</button></div>
+    <div><button class="tablink1" onclick="openPage('locations')" id="#locations">Locations</button></div>
+    <div><button class="tablink2" onclick="openPage('benefits')" id="#benefits">Benefits</button></div>
+    <div><button class="tablink3" onclick="openPage('contactUs')" id="#contactUs">Contact Us</button></div>
+    </div>
+    <header>
+    <div class="tab-content1">
+        <div id="home">
+            <h1> Travel Beyond Limits </h1>
+            <p> Start you world adventure at and affordable price </p>
+        <div class="button">
+            <div class="vertical-center">
+            <button>Book Now</button>
+        </div>
+        </div>
+    </div>
+    </header>
+    <div class="tab-content2">
+        <div id="locations">
+            <h1> The Perfect Travelling Experience. </h1>
+            <p> Travel without worries we got your back</p>
+        </div>
+    </div>
+    <div class="tab-content3">
+        <div id="benefits">
+            <div><h1>The Perfect Travel</h1>
+            <h2>Basta Yun</h2>
+        </div>
+        <div class="container">
+            <div class="box">
+                <div class="content">
+                <h3>Travel</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Fugiot eos doloribus quae reprehenderit eaque repellendus consecquator qou temporibus, harum, dolores illo? Ex dolores similique placeat provident quo prasentium cumque.</p></div>
+            </div>
+            <div class="box">
+                <div class="content">
+                <h3>Hotels</h3>
+                <div class="item2">Lorem ipsum dolor sit amet consectur adipisicing elit. Illo possimus maxime repudiandae esse, blanditiis officia delectus cupiditate quas eum. Velit minus rem suscipit officia doloremque laboriosam odio vel facere perspiciatis.</p></div>
+            </div>
+            </div>
+            <div class="box">
+                <div class="content">
+                <h3>Plane</h3>
+                <div class="item3">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque, consectetur pariatur. Facilis excepturi rerum nobis, valuptas voluptatum aliquid natus nam, sunt reciendis porro numquam dignissimos earum ipsam molestias nihil a!</p></div>
+            </div> 
+        </div>
+        </div>
+        </div>
+    <body>
+    <div class="tab-content4">
+        <div class="form">
+            <h3> Contact Us</h3>
+            <div class="textbox">
+                <p>Name</p>
+                <input class="name">
+                <p>Email</p>
+                <input class="email">
+            <div class="btn">
+                <a><button>Submit</button></a> 
+        </div>
+    </div>
+    </body>
+ </body>
+</html>
