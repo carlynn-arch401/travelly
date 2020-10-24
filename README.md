@@ -4,7 +4,7 @@
 <html>
 <head>
     
-    <link rel="stylesheet" href="travelly/css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="travelly/css/style.css"/>
     <title>Travelly</title>
 </head>
 <body>
